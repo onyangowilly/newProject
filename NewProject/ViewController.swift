@@ -27,6 +27,8 @@ class ViewController: UIViewController {
         print("amsterdam")
     }
     
+    var amsterdamOK: Int
+    
 
 }
 
