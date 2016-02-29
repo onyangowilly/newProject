@@ -24,9 +24,9 @@ class ViewController: UIViewController {
         print("Hello World!")
     }
     func amsterdam (){
-        print("amsterdam")
+        print("amsterdam is great")
     }
     
-print("willy")
+    
 }
 
